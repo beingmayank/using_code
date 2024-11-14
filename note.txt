@@ -1,0 +1,9 @@
+1.	Structure: Web APIs usually follow REST (Representational State Transfer) or SOAP (Simple Object Access Protocol) standards, with REST being the more common due to its simplicity and flexibility.
+2.	Communication via HTTP: Web APIs use HTTP methods like GET, POST, PUT, and DELETE to perform various operations:
+o	GET: Retrieve data
+o	POST: Create new data
+o	PUT: Update existing data
+o	DELETE: Remove data
+3.	Data Format: Data is often exchanged in JSON (JavaScript Object Notation) or XML formats, with JSON being the most popular due to its readability and lightweight structure.
+4.	Usage: Web APIs are widely used in applications, enabling integration between services (e.g., integrating payment processing, weather information, social media feeds, etc.).
+Web APIs are essential in modern web development, as they allow seamless communication between different software systems across the internet.
